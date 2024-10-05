@@ -6,5 +6,5 @@ module.exports = {
     images: {
       unoptimized: true, // Required for using Next.js images with static exports
     },
-    basePath: '/YOUR_GITHUB_REPO_NAME', // Change to your GitHub repo name
+    basePath: '/WeddingPhotos', // Change to your GitHub repo name
   };
